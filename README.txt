@@ -22,7 +22,7 @@ How to use the Project
 		Blue coloured tiles are the path that has been chosen
 
 Please do enjoy my project, if you have any feedback for me do contact me:
-business@kierancoppins.com
+me@kierancoppins.com
 
 If you happen to spread my project do be sure to credit me and include this README file.
 
